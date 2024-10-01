@@ -1,0 +1,8 @@
+Número de valores abaixo de 165 162
+Porcentagem de valores abaixo de 165 100.00%
+Erro Médio 5.398242327160494
+Erro Mediano 4.280056500000001
+Desvio Padrão 4.2032050400038585
+Variância 17.666932608313836
+Erro Médio do Artigo 0.05
+Seu Erro Médio 5.398242327160494

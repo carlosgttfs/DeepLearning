@@ -1,0 +1,2 @@
+Mean Error: 492.385842
+Standard Deviation: 6.568725
