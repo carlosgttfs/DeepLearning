@@ -27,3 +27,6 @@ arima_model_fit = arima_model.fit()
 
 # Fazer previsões com o modelo ARIMA
 arima_predictions = arima_model_fit.forecast(steps=len(y_test))
+
+
+#comentario
